@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">11175387345-o03uk6dnpci326f75i2hg12qv5omrmu3.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">11175387345</string>
+    <string name="google_api_key" translatable="false">AIzaSyCRRpnEjbLmSz01E9WOMG496gx-dVJBciQ</string>
+    <string name="google_app_id" translatable="false">1:11175387345:android:a6c4adf7208425d33d65f0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCRRpnEjbLmSz01E9WOMG496gx-dVJBciQ</string>
+    <string name="google_storage_bucket" translatable="false">shopnsplit.appspot.com</string>
+    <string name="project_id" translatable="false">shopnsplit</string>
+</resources>
